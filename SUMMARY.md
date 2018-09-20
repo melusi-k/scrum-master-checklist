@@ -1,5 +1,4 @@
 # Summary
-
 * [Introduction](README.md)
 * [End of Sprint](README.md)
 # Planning
